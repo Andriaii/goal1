@@ -1,0 +1,29 @@
+img{
+    width: 400px;
+    height: 200px;
+    border-radius:  25px; ;
+}
+
+.left, .right {
+    width: 50%;
+    padding: 20px;
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7f7f7;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

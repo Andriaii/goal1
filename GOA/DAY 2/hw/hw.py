@@ -1,0 +1,2 @@
+print("qristi")
+print("suliko")
